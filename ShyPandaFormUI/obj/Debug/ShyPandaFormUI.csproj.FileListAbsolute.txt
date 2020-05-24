@@ -1,0 +1,16 @@
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\bin\Debug\ShyPandaFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\bin\Debug\ShyPandaFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\bin\Debug\ShyPandaFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\obj\Debug\ShyPandaFormUI.Properties.Resources.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\obj\Debug\ShyPandaFormUI.csproj.GenerateResource.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\obj\Debug\ShyPandaFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\obj\Debug\ShyPandaFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\obj\Debug\ShyPandaFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\bin\Debug\GeneralTrainFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\bin\Debug\MultipleGameSystem.DataAccess.dll
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\bin\Debug\GeneralTrainFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\bin\Debug\GeneralTrainFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\bin\Debug\MultipleGameSystem.DataAccess.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\obj\Debug\ShyPandaFormUI.csproj.CopyComplete
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\obj\Debug\ShyPandaFormUI.ShyPandaGameForm.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\ShyPandaFormUI\obj\Debug\ShyPandaFormUI.csprojAssemblyReference.cache

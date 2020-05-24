@@ -1,0 +1,16 @@
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\bin\Debug\SmartClassroomFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\bin\Debug\SmartClassroomFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\bin\Debug\SmartClassroomFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\obj\Debug\SmartClassroomFormUI.csprojAssemblyReference.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\obj\Debug\SmartClassroomFormUI.Properties.Resources.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\obj\Debug\SmartClassroomFormUI.csproj.GenerateResource.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\obj\Debug\SmartClassroomFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\obj\Debug\SmartClassroomFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\obj\Debug\SmartClassroomFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\obj\Debug\SmartClassroomFormUI.SmartClassroomGameForm.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\bin\Debug\GeneralTrainFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\bin\Debug\MultipleGameSystem.DataAccess.dll
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\bin\Debug\GeneralTrainFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\bin\Debug\GeneralTrainFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\bin\Debug\MultipleGameSystem.DataAccess.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\SmartClassroomFormUI\obj\Debug\SmartClassroomFormUI.csproj.CopyComplete

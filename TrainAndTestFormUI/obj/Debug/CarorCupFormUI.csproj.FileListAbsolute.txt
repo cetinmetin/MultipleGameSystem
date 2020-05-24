@@ -1,0 +1,10 @@
+C:\Users\Demon\source\repos\MultipleGameSystem\CarorCupFormUI\bin\Debug\CarorCupFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\CarorCupFormUI\bin\Debug\CarorCupFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\CarorCupFormUI\bin\Debug\CarorCupFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\CarorCupFormUI\obj\Debug\CarorCupFormUI.Properties.Resources.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\CarorCupFormUI\obj\Debug\CarorCupFormUI.csproj.GenerateResource.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\CarorCupFormUI\obj\Debug\CarorCupFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\CarorCupFormUI\obj\Debug\CarorCupFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\CarorCupFormUI\obj\Debug\CarorCupFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\CarorCupFormUI\obj\Debug\CarorCupFormUI.csprojAssemblyReference.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\CarorCupFormUI\obj\Debug\CarorCupFormUI.CarorCupForm.resources

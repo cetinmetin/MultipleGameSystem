@@ -1,0 +1,13 @@
+C:\Users\Demon\source\repos\MultipleGameSystem\GeneralTrainFormUI\bin\Debug\GeneralTrainFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\GeneralTrainFormUI\bin\Debug\GeneralTrainFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\GeneralTrainFormUI\bin\Debug\GeneralTrainFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\GeneralTrainFormUI\obj\Debug\GeneralTrainFormUI.csprojAssemblyReference.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\GeneralTrainFormUI\obj\Debug\GeneralTrainFormUI.GeneralTrainForm.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\GeneralTrainFormUI\obj\Debug\GeneralTrainFormUI.Properties.Resources.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\GeneralTrainFormUI\obj\Debug\GeneralTrainFormUI.csproj.GenerateResource.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\GeneralTrainFormUI\obj\Debug\GeneralTrainFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\GeneralTrainFormUI\obj\Debug\GeneralTrainFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\GeneralTrainFormUI\obj\Debug\GeneralTrainFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\GeneralTrainFormUI\bin\Debug\MultipleGameSystem.DataAccess.dll
+C:\Users\Demon\source\repos\MultipleGameSystem\GeneralTrainFormUI\bin\Debug\MultipleGameSystem.DataAccess.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\GeneralTrainFormUI\obj\Debug\GeneralTrainFormUI.csproj.CopyComplete

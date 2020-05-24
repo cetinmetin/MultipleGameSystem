@@ -1,0 +1,16 @@
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\bin\Debug\FaceLockFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\bin\Debug\FaceLockFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\bin\Debug\FaceLockFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\obj\Debug\FaceLockFormUI.csprojAssemblyReference.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\obj\Debug\FaceLockFormUI.Properties.Resources.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\obj\Debug\FaceLockFormUI.csproj.GenerateResource.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\obj\Debug\FaceLockFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\obj\Debug\FaceLockFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\obj\Debug\FaceLockFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\bin\Debug\GeneralTrainFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\bin\Debug\MultipleGameSystem.DataAccess.dll
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\bin\Debug\GeneralTrainFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\bin\Debug\GeneralTrainFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\bin\Debug\MultipleGameSystem.DataAccess.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\obj\Debug\FaceLockFormUI.csproj.CopyComplete
+C:\Users\Demon\source\repos\MultipleGameSystem\FaceLockFormUI\obj\Debug\FaceLockFormUI.FaceLockGameForm.resources

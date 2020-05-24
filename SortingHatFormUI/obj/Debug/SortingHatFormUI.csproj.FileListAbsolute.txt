@@ -1,0 +1,16 @@
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\bin\Debug\SortingHatFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\bin\Debug\SortingHatFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\bin\Debug\SortingHatFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\obj\Debug\SortingHatFormUI.Properties.Resources.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\obj\Debug\SortingHatFormUI.csproj.GenerateResource.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\obj\Debug\SortingHatFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\obj\Debug\SortingHatFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\obj\Debug\SortingHatFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\bin\Debug\GeneralTrainFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\bin\Debug\MultipleGameSystem.DataAccess.dll
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\bin\Debug\GeneralTrainFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\bin\Debug\GeneralTrainFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\bin\Debug\MultipleGameSystem.DataAccess.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\obj\Debug\SortingHatFormUI.csproj.CopyComplete
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\obj\Debug\SortingHatFormUI.SortingHatGameForm.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\SortingHatFormUI\obj\Debug\SortingHatFormUI.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem\bin\Debug\MultipleGameSystem.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem\bin\Debug\MultipleGameSystem.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem\bin\Debug\MultipleGameSystem.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem\obj\Debug\MultipleGameSystem.csprojAssemblyReference.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem\obj\Debug\MultipleGameSystem.Properties.Resources.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem\obj\Debug\MultipleGameSystem.csproj.GenerateResource.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem\obj\Debug\MultipleGameSystem.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem\obj\Debug\MultipleGameSystem.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem\obj\Debug\MultipleGameSystem.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem\obj\Debug\MultipleGameSystem.MainScreenForm.resources

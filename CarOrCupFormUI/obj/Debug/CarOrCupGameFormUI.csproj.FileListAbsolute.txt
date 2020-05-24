@@ -1,0 +1,9 @@
+C:\Users\Demon\source\repos\MultipleGameSystem\CarOrCupGameFormUI\bin\Debug\CarOrCupGameFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\CarOrCupGameFormUI\bin\Debug\CarOrCupGameFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\CarOrCupGameFormUI\bin\Debug\CarOrCupGameFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\CarOrCupGameFormUI\obj\Debug\CarOrCupGameFormUI.CarOrCupForm.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\CarOrCupGameFormUI\obj\Debug\CarOrCupGameFormUI.Properties.Resources.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\CarOrCupGameFormUI\obj\Debug\CarOrCupGameFormUI.csproj.GenerateResource.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\CarOrCupGameFormUI\obj\Debug\CarOrCupGameFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\CarOrCupGameFormUI\obj\Debug\CarOrCupGameFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\CarOrCupGameFormUI\obj\Debug\CarOrCupGameFormUI.pdb

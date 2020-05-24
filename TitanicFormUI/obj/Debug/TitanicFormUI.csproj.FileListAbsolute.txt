@@ -1,0 +1,16 @@
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\bin\Debug\TitanicFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\bin\Debug\TitanicFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\bin\Debug\TitanicFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\obj\Debug\TitanicFormUI.Properties.Resources.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\obj\Debug\TitanicFormUI.csproj.GenerateResource.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\obj\Debug\TitanicFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\obj\Debug\TitanicFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\obj\Debug\TitanicFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\obj\Debug\TitanicFormUI.csprojAssemblyReference.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\bin\Debug\GeneralTrainFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\bin\Debug\MultipleGameSystem.DataAccess.dll
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\bin\Debug\GeneralTrainFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\bin\Debug\GeneralTrainFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\bin\Debug\MultipleGameSystem.DataAccess.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\obj\Debug\TitanicFormUI.csproj.CopyComplete
+C:\Users\Demon\source\repos\MultipleGameSystem\TitanicFormUI\obj\Debug\TitanicFormUI.TitanicGameForm.resources

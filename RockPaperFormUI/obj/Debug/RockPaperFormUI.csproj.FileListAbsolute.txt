@@ -1,0 +1,16 @@
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\bin\Debug\RockPaperFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\bin\Debug\RockPaperFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\bin\Debug\RockPaperFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\obj\Debug\RockPaperFormUI.Properties.Resources.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\obj\Debug\RockPaperFormUI.csproj.GenerateResource.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\obj\Debug\RockPaperFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\obj\Debug\RockPaperFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\obj\Debug\RockPaperFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\bin\Debug\GeneralTrainFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\bin\Debug\MultipleGameSystem.DataAccess.dll
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\bin\Debug\GeneralTrainFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\bin\Debug\GeneralTrainFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\bin\Debug\MultipleGameSystem.DataAccess.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\obj\Debug\RockPaperFormUI.csproj.CopyComplete
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\obj\Debug\RockPaperFormUI.RockPaperGameForm.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\RockPaperFormUI\obj\Debug\RockPaperFormUI.csprojAssemblyReference.cache

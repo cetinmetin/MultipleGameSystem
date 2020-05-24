@@ -1,0 +1,6 @@
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem.DataAccess\obj\Debug\MultipleGameSystem.DataAccess.csprojAssemblyReference.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem.DataAccess\obj\Debug\MultipleGameSystem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem.DataAccess\bin\Debug\MultipleGameSystem.DataAccess.dll
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem.DataAccess\bin\Debug\MultipleGameSystem.DataAccess.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem.DataAccess\obj\Debug\MultipleGameSystem.DataAccess.dll
+C:\Users\Demon\source\repos\MultipleGameSystem\MultipleGameSystem.DataAccess\obj\Debug\MultipleGameSystem.DataAccess.pdb

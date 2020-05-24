@@ -1,0 +1,16 @@
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\bin\Debug\ChameleonFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\bin\Debug\ChameleonFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\bin\Debug\ChameleonFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\obj\Debug\ChameleonFormUI.csprojAssemblyReference.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\obj\Debug\ChameleonFormUI.Properties.Resources.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\obj\Debug\ChameleonFormUI.csproj.GenerateResource.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\obj\Debug\ChameleonFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\obj\Debug\ChameleonFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\obj\Debug\ChameleonFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\bin\Debug\GeneralTrainFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\bin\Debug\MultipleGameSystem.DataAccess.dll
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\bin\Debug\GeneralTrainFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\bin\Debug\GeneralTrainFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\bin\Debug\MultipleGameSystem.DataAccess.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\obj\Debug\ChameleonFormUI.csproj.CopyComplete
+C:\Users\Demon\source\repos\MultipleGameSystem\ChameleonFormUI\obj\Debug\ChameleonFormUI.ChameleonGameForm.resources

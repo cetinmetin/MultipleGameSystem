@@ -1,0 +1,16 @@
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\bin\Debug\MakeMeHappyFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\bin\Debug\MakeMeHappyFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\bin\Debug\MakeMeHappyFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\obj\Debug\MakeMeHappyFormUI.csprojAssemblyReference.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\obj\Debug\MakeMeHappyFormUI.Properties.Resources.resources
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\obj\Debug\MakeMeHappyFormUI.csproj.GenerateResource.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\obj\Debug\MakeMeHappyFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\obj\Debug\MakeMeHappyFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\obj\Debug\MakeMeHappyFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\bin\Debug\GeneralTrainFormUI.exe
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\bin\Debug\MultipleGameSystem.DataAccess.dll
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\bin\Debug\GeneralTrainFormUI.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\bin\Debug\GeneralTrainFormUI.exe.config
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\bin\Debug\MultipleGameSystem.DataAccess.pdb
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\obj\Debug\MakeMeHappyFormUI.csproj.CopyComplete
+C:\Users\Demon\source\repos\MultipleGameSystem\MakeMeHappyFormUI\obj\Debug\MakeMeHappyFormUI.MakeMeHappyGameForm.resources
